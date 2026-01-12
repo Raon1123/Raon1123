@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yunpyo An
-- 👀 I’m interested in Federated Learning and Logic
-- 🌱 I’m currently learning Machine Learning and Computer Vision
-- 💞️ I’m looking to collaborate on MLV Lab in UNIST
+- 👀 I’m interested in World Models and Reasoning
+- 🌱 I’m currently learning Machine Learning and 
+- 💞️ I’m looking to collaborate on IMIL Lab in UNIST
 - 📫 How to reach me anyunpyo `at` unist `dot` ac `dot` kr
 
 <!---
